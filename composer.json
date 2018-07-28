@@ -1,0 +1,12 @@
+{
+    "name": "dayueshan/myPhpunit",
+    "require": {
+        "monolog/monolog": "dev-masteir"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
